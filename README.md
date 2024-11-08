@@ -1,1 +1,1 @@
-Crecion de VMs para laboratorios
+Crecion de VMs para laboratorios solo linux
